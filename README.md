@@ -1,4 +1,3 @@
-# atuendo_icónico
 <!doctype html>
 <html lang="en">
   <head>
