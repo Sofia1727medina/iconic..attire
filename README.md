@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -8,8 +8,7 @@
   </head>
   <body>
     <center>
-      <form action="Gracias.html">
-<br><br><br>
+ 
 <h1>FORMULARIO</h1>
 <style>
   /* Estilos generales */
