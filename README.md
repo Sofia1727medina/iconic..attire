@@ -3,8 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="IMAGEN.jpg">
-    <link rel="stylesheet" href="formulario.css">
+    <link rel="icon" href="https://www.canva.com/design/DAFe4vkG1f8/druB-g_z4Ijht1WSN38uhg/view?mode=prototype">
     <title>Iconic Attire</title>
   </head>
   <body>
@@ -12,8 +11,84 @@
       <form action="Gracias.html">
 <br><br><br>
 <h1>FORMULARIO</h1>
-        <img img src="IMAGEN.jpg" height="200px" width="500px"><br>
+<style>
+  /* Estilos generales */
+body {
+    background: linear-gradient(to bottom right, #e15f6a, #cca4f9, #77c5d5);
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size: 20px;
+    color: #444444;
+    height: -500px;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-top: 0;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+  
+  .form-check {
+    margin-bottom: 20px;
+  }
+  
+  .check-label {
+    font-weight: bold;
+  }
+  
+  /* Estilos para el botón "Enviar" */
+  input[type="submit"] {
+    display: inline-block;
+    background-color: #ec6ec9;
+    color: white;
+    padding: 12px 20px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #b94ade;
+  }
+  
+  input[type="submit"]:active {
+    background-color: #ec6ec9;
+  }
+  
+  input[type="submit"]:focus {
+    outline: none;
+  }
+  
+  /* Animaciones para el botón "Enviar" */
+  input[type="submit"] {
+    animation-name: pulse;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+     50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
 
+<img href="https://www.canva.com/design/DAFe4vkG1f8/druB-g_z4Ijht1WSN38uhg/view?mode=prototype">
        <div class="check">
          <label class="check-label" for="flexRadioDefault1" name="pregunta1" value="50">1. ¿Cómo conociste la marca de Iconic Attire?</label>
          <div> <input  class="check-input" type="radio" name="pregunta1" id="lexRadioDefault1" value="1"/>Por un conocido</div>
