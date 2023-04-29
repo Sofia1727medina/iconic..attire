@@ -76,8 +76,6 @@ body {
     }
   }
 </style>
-
-<img href="https://www.canva.com/design/DAFe4vkG1f8/druB-g_z4Ijht1WSN38uhg/view?mode=prototype">
        <div class="check">
          <label class="check-label" for="flexRadioDefault1" name="pregunta1" value="50">1. ¿Cómo conociste la marca de Iconic Attire?</label>
          <div> <input  class="check-input" type="radio" name="pregunta1" id="lexRadioDefault1" value="1"/>Por un conocido</div>
