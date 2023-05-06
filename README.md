@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" hr[ef="IMAGEN.jpg](https://www.canva.com/design/DAFe4vkG1f8/view)">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <title>Iconic Attire</title>
   </head>
@@ -83,7 +82,7 @@ h1 {
     }
 
 /* Estilo para la imagen */
-img {
+iframe {
   border: 5px solid #30b9e6;
   border-radius: 15px;
 } 
@@ -99,9 +98,6 @@ form {
 }
 </style>
 <h1>FORMULARIO</h1>
-        <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFe4vkG1f8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
