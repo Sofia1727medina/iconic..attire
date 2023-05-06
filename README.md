@@ -81,12 +81,6 @@ h1 {
       }
     }
 
-/* Estilo para la imagen */
-img {
-  border: 5px solid #30b9e6;
-  border-radius: 15px;
-} 
-
 /* Añadir estilo al formulario */
 form {
   max-width: 700px;
