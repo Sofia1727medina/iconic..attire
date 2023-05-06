@@ -98,8 +98,7 @@ form {
 }
 </style>
 <h1>FORMULARIO</h1>
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFe4vkG1f8&#x2F;view?embed">
+  <iframe style="position: absolute; width: 100%; height: 100%;" src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFe4vkG1f8&#x2F;view?embed">
   </iframe><br><br>
        <div class="check">
          <label class="check-label" for="flexRadioDefault1" name="pregunta1" value="50">1. ¿Prefieres ropa cómoda o elegante?</label>
