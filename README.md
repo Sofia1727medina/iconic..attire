@@ -1,11 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="https://www.canva.com/design/DAFe4vkG1f8/druB-g_z4Ijht1WSN38uhg/view?mode=prototype">
-    <title>Iconic Attire</title>
-  </head>
+
   <body>
     <center>
       <form action="Gracias.html">
