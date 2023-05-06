@@ -82,7 +82,7 @@ h1 {
     }
 
 /* Estilo para la imagen */
-iframe {
+img {
   border: 5px solid #30b9e6;
   border-radius: 15px;
 } 
